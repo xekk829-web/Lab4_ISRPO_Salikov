@@ -21,6 +21,6 @@ case "4":
     Console.WriteLine("До свидания!");
     break;
 default:
-    Console.WriteLine("Проверьте правильность ввода (1-4).");
+    Console.WriteLine("Проверьте правильность ввода (число от 1 до 4).");
     break;
 }
