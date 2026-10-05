@@ -44,6 +44,7 @@ git push
 ---
 ### index.html
 ![alt](/repo/browserSalikov.png)
+
 [Файл](/client/index.html)
 
 [HTML - Википедия](https://ru.wikipedia.org/wiki/HTML)
@@ -60,7 +61,8 @@ git push
 ### LaTeX
 Формула Пифагора: $a^2 + b^2 = c^2$
 
-Формула суммы арифметической прогресси:
+Формула суммы арифметической прогрессии:
+
 $$
 \sum_{i=1}^n i = \frac{n(n+1)}{2}
 $$
